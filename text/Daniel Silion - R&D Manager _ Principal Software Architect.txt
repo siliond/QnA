@@ -1,0 +1,297 @@
+Daniel Silion
+R&D Manager | Principal Software Architect
+
+Contact
+siliond@gmail.com
+DanielSilion.rf.gd
+LinkedIn.com/in/danielsilion
+Summary
+ScrumMaster, PMP, CUA, MCTS and Six Sigma Green Belt Professional certified Product and Development Manager, and Software Architect with extensive experience in the management, analysis, development and implementation of enterprise software solutions. Able to establish and sustain mutually-beneficial cross-functional relationships with both internal and external project stakeholders.
+
+Hands-on Cloud and On-Premise Solution Architect, Full Stack Software Engineer, Digital Transformation, Machine Learning Engineer with over 20 years of experience in architecting, designing and developing web solutions.
+Focused on architecting, designing and implementing highly scalable cloud-native SaaS Healthcare solutions with microservice architecture and large scale on-premise projects ranging from Financial to Laboratory management systems.
+
+Certifications
+ScrumMaster, PMP, CUA, MCTS and Six Sigma Green Belt Professional certified Software Architect, and Product and Development Manager.
+
+Technology Summary
+.Net Framework, .NET Core, ASP.NET Core, Entity Framework Core, SignalR, C#, React JS, Angular, TypeScript, Microservices, Docker, Serverless computing, Continuous Integration/Continuous Delivery (CI/CD), HL7 FHIR, REST API, gRPC, GraphQL, Machine Learning.
+Design Patterns: Repository, Unit of Work, Domain Driven Design (DDD), Command Query Responsibility Segregation/Event Sourcing (CQRS/ES).
+
+Product development in regulated environment, medical device industry.
+Compliance standards: ISO 13485:2016, ISO13485:2003, ISO27001:2013, ISO9001:2008, ISO 9001:2015, ISO 14971:2019, ISO 15189, CLIA, CAP, GxP, ICH, HIPAA, GDPR, CFR 21 Part 11, 21 CFR Part 820, NATA, NeHTA, IEC 62304.
+Experience
+R&D Manager | Principal Software ArchitectJan 2017 � Present (3 years 11 months)
+Abbott
+Technical leadership, Software development process expertise, Quality advocate, Business domain expertise, Full project life cycle expertise (Architecture, Design, Development, Testing, Deployment), Good communicator and negotiator, Objective decision making, Organizational politics navigator, Software/Infrastructure selection expert, Coach and mentor, Agile and eXtreme Programming expert.
+
+Knowledge of developing products in a regulated environment, medical device industry.
+Compliance standards: ISO 13485:2016, ISO13485:2003, ISO27001:2013, ISO9001:2008, ISO 9001:2015, ISO 14971:2019, ISO 15189, CLIA, CAP, GxP, ICH, HIPAA, GDPR, CFR 21 Part 11, 21 CFR Part 820, NATA, NeHTA, IEC 62304.
+
+Medical Device Connectivity/Systems Interfacing standards and protocols:
+- HL7 FHIR, HL7, JSON, OpenAPI, SOAP, XML, CSV, Excel, custom formats
+- HL7 MLLP, TCP/IP, REST API, gRPC, Web services, SFTP, SMB, ASTM, AWS S3, GraphQL
+Software Engineering ManagerMay 2012 � Dec 2016 (4 years 8 months)
+Abbott
+eyeNet
+- Web based solution providing systems interoperability.
+
+Skills: Software Architecture, ASP.NET Web API, MVC, Identity, N tier architecture, AutoFac IoC Container, Generic Repository, Unit of Work, AutoMapper, Semantic Logging Application Block, EntityFramework, Electronic Signature and Audit, Crystal Reports integration, Moq, VS Text Templating, VS Unit Testing, VS UI Testing, Extended ASP.NET data control attributes
+
+Healthcare Informatics
+- Managing the development of the Abbott Healthcare Informatics Solution - software that is built and implemented as a product (COTS), having a large audience: Clinical Research: Biorepositories, Clinical Trials; Diagnostic Laboratories: Reference Labs. Design/manage product lifecycle, design/manage the development of new functionality.
+
+Transitioned the management of the Abbott Healthcare Informatics Solution SDLC to TFS, from previous in-house solution.
+Extended Team Foundation for automations (auto create user story tasks; auto assign tasks, bugs and issues; auto close/reactivate parent work item, etc.), a C# solution that uses the Team Foundation server object model on the application tier.
+
+Skills
+Software Design, Project Management, Product Implementation Management, Product Strategy and Planning, Coordination of Core Product and Client Project implementations, Software Development Life Cycle, TFS, JScript .NET, C#, Team Foundation server object model, SSL, SQL Server Administration, T-SQL, Oracle Administration, PL/SQL
+Software Engineering ManagerMar 2010 � Apr 2012 (2 years 2 months)
+Abbott
+Managed the development of the SUNRISE product - software that is built and implemented as a product (COTS), having a large audience: Public Health Laboratories, Centers of Disease Control. Designed/managed product lifecycle, designed/managed the development of new functionality.
+
++ Software Engineering Manager
+SUNRISE product (LIMS for the PHL sector), web-based laboratory information management system development in JScript .NET and SQL Server/Oracle RDBMS
+Transitioned the SDLC from waterfall to Agile
+
++ Project Manager
+Vermont Department of Health, StarLIMS V10, SQL Server 2005
+CDC - NCEH (National Center for Environmental Health) Support
+CDC - CCID (Coordinating Center for Infectious Diseases) Support
+Software Product Manager / Project ManagerDec 2003 � Mar 2010 (6 years 4 months)
+Starlims Corporation
+Managed the SUNRISE product - software that is built and implemented as a product (COTS), having a large audience: Public Health Laboratories, Centers of Disease Control. Designed/managed product lifecycle, designed/managed product new functionality.
+Managed customer projects.
+
++ Software Product Manager
+SUNRISE product (LIMS for the PHL sector), web-based laboratory information management system development in JScript .NET and SQL Server/Oracle RDBMS
+
++ Project Manager / Lead Engineer
+Vermont Department of Health, StarLIMS V10, SQL Server 2005
+CDC - NCEH (National Center for Environmental Health) Support
+CDC - CCID (Coordinating Center for Infectious Diseases) Support
+
++ Project Lead Engineer
+Cott Beverages, StarLIMS V10, SQL Server
+Iowa UHL, StarLIMS V9, Oracle 10g
+Tennessee PHL, StarLIMS V9, SQL Server
+
++ Senior Engineer
+M&G, StarLIMS V10, SQL Server
+
++ System Analyst / Software Engineer
+Maine Department of Health and Human Services, StarLIMS V9, Oracle
+California Department of Health Services, StarLIMS V9, SQL Server
+Demo for Saskatchewan, StarLIMS V10, SQL Server
+Burns & Roe Services Corp., StarLIMS V9, Oracle
+EMD, StarLIMS V9, Sybase
+Demo for Ben&Jerrys, SQL Server
+ESRD, StarLIMS V9, Oracle
+Internal project management system - OIMS, StarLIMS V9, SQL Server
+NCID, StarLIMS V9, SQL Server
+
+Skills
+Software Design, Project Management, Product Implementation Management, Product Strategy and Planning, Coordination of Core Product and Client Project implementations, Software Development Life Cycle, JScript .NET, SSL, SQL Server Administration, T-SQL, Oracle Administration, PL/SQL
+Software EngineerJun 2002 � Dec 2003 (1 year 7 months)
+Elsaco
+Developed multiple Web applications in php and desktop application in Visual Basic with various RDBMS support.
+
++ Coordinated and participated in the creation of a billing application for ApaTerm Oradea and R.A.M. Buzau, water distribution companies, application implemented in php with Sql Server database support
++ Developed an application for analysis, tracking and diagnosis of a meter park, application implemented in Visual Basic with Microsoft Access database support
++ Developed Several Web applications, implemented in php with MySQL database support: Web application for Internet traffic monitoring, Web application for automatic exchange traffic monitoring
+
+Skills
+PHP, Visual Basic, SQL Server Administration, T-SQL, MySQL Administration and Development, Microsoft Access
+Software EngineerApr 2001 � Jun 2002 (1 year 3 months)
+InfoTip
+Developed multiple Delphi applications with various RDBMS support.
+
++ Participated in the creation of a tax application for Botosani Mayoralty, application implemented in Delphi with Oracle database support
++ Developed an application for administration of a veterinary surgery, application implemented in Delphi with Paradox database support
+
+Skills
+Borland Delphi, Oracle Administration, PL/SQL, Paradox Administration and Development
+
+Software EngineerJan 2001 � Mar 2001 (3 months)
+Electrocontact
+Developed Visual C++ application.
+
++ Developed a presentation catalogue which was presented at Hanover Fair, application implemented in Visual C++
+
+Skills
+Visual C++
+
+Software Engineer / Network AdministratorAug 2000 � Dec 2000 (5 months)
+Transilvania Consult
+Network administration and Web site development and maintenance.
+
++ Built and maintained Transilvania Consults Web page
++ Linux and Windows Network Administration
+
+Skills
+CGI C++, MySQL Administration and Development, Network Administration, Suse Administration, Windows Administration
+
+Education
+Universitatea �Alexandru Ioan Cuza� din Iasi 1996 � 2000
+Bachelor's degree, Computer Science
+Carnegie Mellon University2014 � 2014
+Software Architecture
+Carnegie Mellon University Software Engineering Institute (SEI) Software Architecture courses: Principles and Practices, Design and Analysis
+
+Human Factors International2012 � 2013
+Certified Usability Analyst (CUA) training courses
+CUA Track Courses attended:
+- User-Centered Analysis and Conceptual Design
+- The Science and Art of Effective Web and Application Design
+- Practical Usability Testing
+- Putting Research into Practice
+
+LinkedIn Learning2021 �
+Microsoft Azure
+- Microsoft Azure Architect Design (AZ-304)
+- Microsoft Azure Architect Technologies (AZ-303)
+- Microsoft Azure Fundamentals (AZ-900)
+
+Microsoft Learn2020 �
+Microsoft Azure Architect
+- Manage Azure subscriptions and resources
+- Ensure governance and compliance with policies, roles, and blueprints
+- Build, migrate, and protect servers in Azure
+- Configure, monitor, and troubleshoot virtual networks
+- Manage Azure AD and implement multi-factor authentication
+- Configure hybrid integration with Azure AD Connect
+- Find out how you can monitor costs, performance, and security
+- Develop solutions that use Cosmos DB and Azure SQL Database
+- Implement and Monitor Azure Infrastructure: Implementing Cloud Infrastructure Monitoring, Creating and Configuring Storage Accounts, Implementing and Managing Virtual Machines, Implementing and Managing Virtual Networking, Creating Connectivity between Virtual Networks, Managing Azure Active Directory (Azure AD), Implementing Multi-Factor Authentication (MFA), Implementing and Managing Hybrid Identities
+- Implement Management and Security Solutions: Managing Workloads in Azure, Implementing Load Balancing and Networking Security, Implementing Azure Governance Solutions
+- Implement Solutions for Apps: Creating Web Apps Using PaaS and Serverless, Designing and Developing Apps for Containers, Implementing Authentication
+- Implement and Manage Data Platforms: Developing Solutions that Use Cosmos DB Storage Developing Solutions that Use a Relational Database
+
+Microsoft2020 � 2020
+ASP.NET Core MVC
+Develop advanced ASP.NET Core MVC applications using .NET Core tools and technologies.
+
+Microsoft2015 � 2015
+C#
+Microsoft Virtual Academy Exam 70-483 - Programming in C# training
+
+PluralSight2015 � 2015
+Modern Software Architecture: Domain Models, CQRS, and Event Sourcing
+Pluralsight2016 � 2016
+Picturing Architecture: UML (The Good Bits) and More
+This course shows you how to visualize and communicate architecture using pictures, which is essential in an Agile environment. It takes you through the design process, covering everything from story cards to representing complex activity flows.
+
+Microsoft2015 � 2015
+Identity
+Microsoft Virtual Academy Customizing ASP.NET Authentication with Identity
+
+PluralSight2015 � 2015
+LINQ
+Udacity2014 � 2015
+Software Development Life Cycles
+Life Cycle Models, Integrated Development Environment, Version Control Systems, Requirements Engineering, OO Software and UML, Software Architecture, Analysis and Design, Design Patterns, Unified Software Process, General Concepts, Black-Box Testing, White-Box Testing, Agile Development Methods, Software Refactoring
+
+PluralSight2014 � 2015
+Design Patterns
+PluralSights design patterns library contains descriptions and C# examples of software design patterns that you can apply in your daily development. These patterns are time proven techniques for building long-lived, well factored software that are widely used in software development today.
+
+ScrumAlliance2012 � 2012
+CSM
+Scrum Master Certification Prep course
+
+ERC Communications2012 � 2012
+Executive Presentation Skills
+Microsoft2012 � 2012
+Visual Studio 2010 ALM
+Team Foundation Server Essentials - Certificate of Completion: http://goo.gl/xYF4D
+Testing Tools - Certificate of Completion: http://goo.gl/qjfrr
+
+ai-class2011 � 2011
+Artificial Intelligence
+Completed advanced track of online class Introduction to Artificial Intelligence (www.ai-class.com) taught by Peter Norvig (director of Research at Google, author of AIAMA) and Sebastian Thrun (Professor at Stanford University, Google Fellow).
+
+Statement of Accomplishment: http://goo.gl/StizK
+
+Abbott Learning and Development2010 � 2011
+Management
+Leadership Training
+Crisis Management
+Manager Basics
+Art of Effective Feedback
+Know the Business
+Performance Excellence
+Interviewing and Talent Acquisition
+Open Communication
+
+Global Knowledge2010 � 2010
+Microsoft Certified Technology Specialist: Managing Projects with Microsoft Office Project 2007
+Managing Projects with Microsoft Office Project 2007 Boot Camp
+
+VMEdu Faculty2010 � 2010
+PMP
+Project Management Professional(PMP)� Certification Exam preparation
+
+VMEdu Faculty2010 � 2010
+Six Sigma Green Belt Professional
+Six Sigma Green Belt Course
+
+PluralSight2016 � 2016
+F# Jumpstart
+F# is a .NET (CLI) language. It combines functional and OO (Object Oriented) concepts to you let you solve complex problems with simple code.
+
+Pluralsight2016 � 2016
+Introduction to UML
+This course introduces the Unified Modeling Language (UML) and several of the diagrams that are most often used in software development.
+
+Pluralsight2016 � 2016
+Software Engineering Essentials
+The IEEE defines Software Engineering as the application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software. Software engineering is a discipline applied throughout the entire software lifecycle, spanning the early phases of system specifications all the way to maintenance after system deployment. So why use an engineering approach to software? Quite simply, because the alternative would be to use an ad-hoc or disordered approach. An engineering approach means predictability and quantifiable results through the application of theories, methodologies, frameworks, and tools. When applied efficiently, the result is high-quality software created in a cost-effective manner.
+FigLeaf2016 � 2016
+Sencha ExtJS 6.2
+Back to coding UI with Sencha ExtJS JavaScript framework with a vengeance after completing the bootcamp.
+https://training.figleaf.com/courses/ExtJS6Class.cfm
+
+PluralSight2017 � 2017
+Angular
+PluralSight2017 � 2017
+TypeScript
+PluralSight2017 � 2017
+Machine Learning with Python
+Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.
+
+Microsoft2017 � 2017
+Visual Studio ALM
+UX Design Edge2018 � 2018
+UX Design Essentials Workshop
+Practical essentials:
+- Using an efficient, user-centered design process
+- Making a design intuitive, simple, and delightful
+- Designing tasks, task flows, and pages
+- Evaluating designs, giving and receiving effective feedback
+- Performing informal usability studies
+
+PluralSight2020 � 2020
+Building Web Applications with ASP.NET Core MVC
+Build a complete application with ASP.NET Core 3.0 MVC using Visual Studio 2019.
+
+Security Innovation2020 � 2020
+Computer Software Engineering
+AWA 102 - Secure Software Concepts
+DES 212 - Architecture Risk Analysis and Remediation
+ENG 211 - How to Create Application Security Design Requirements
+DES 311 - Creating Secure Application Architecture
+
+Certifications
+Microsoft Specialist: Programming in C#
+CAPA Investigator
+CAPA Initiator/Evaluator
+CUA (Certified Usability Analyst)
+Certified ScrumMaster
+Six Sigma Green Belt Professional
+MCTS
+PMP
+Languages
+English: Full professional proficiency
+Romanian: Native or bilingual proficiency
+Spanish: Limited working proficiency
+Italian: Elementary proficiency
